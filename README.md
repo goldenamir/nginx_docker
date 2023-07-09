@@ -1,6 +1,3 @@
-Certainly! Here's an updated README file for deploying NGINX as a reverse proxy using Docker:
-
-```
 # NGINX Reverse Proxy Deployment with Docker
 
 This repository provides instructions for deploying an NGINX reverse proxy using Docker to route traffic to multiple application containers on an Azure container instance.
